@@ -1,0 +1,44 @@
+.nav{
+    border:2px solid;
+    padding:5px;
+    background-color: brown;
+    color:white;
+    position:relative;
+}
+.container{
+    position:relative;
+}
+h1{
+    position:absolute;
+    top:45%;
+    right:45%;
+    background-color: black;
+    color:white;
+    padding:10px;
+}
+.right{
+    position:absolute;
+    right:0;
+}
+.item{
+    margin-right:10px;
+}
+.img_container{
+    height:200px;
+    width:300px;
+    border:2px solid;
+    position:relative;
+    display:inline-block;
+    margin:10px;
+}
+img{
+    height:100%;
+    width:100%;
+}
+p{
+    top:0;
+    position:absolute;
+    background-color: black;
+    color:white;
+    padding:10px;
+}
